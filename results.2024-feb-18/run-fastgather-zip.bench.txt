@@ -1,0 +1,122 @@
+[K
+== This is sourmash version 4.8.6. ==
+[K== Please cite Brown and Irber (2016), doi:10.21105/joss.00027. ==
+
+[K=> sourmash_plugin_branchwater 0.8.7.dev0; cite Irber et al., doi: 10.1101/2022.11.02.514947
+
+[Kksize: 31 / scaled: 1000 / moltype: DNA / threshold bp: 50000
+[Kgathering all sketches in 'SRR606249.trim.k31.sig.zip' against 'gtdb-rs214-k31.zip' using 64 threads
+Reading query(s) from: 'SRR606249.trim.k31.sig.zip'
+Loaded 1 query signature(s)
+Reading search(s) from: 'gtdb-rs214-k31.zip'
+Loaded 402709 search signature(s)
+using threshold overlap: 50 50000
+outputs.paper/trim/SRR606249.trim.fq.gz iter 0: start: query hashes=424915 matches=38454
+outputs.paper/trim/SRR606249.trim.fq.gz iter 1: remaining: query hashes=415611(-9304) matches=36887(-1567)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 2: remaining: query hashes=408323(-7288) matches=36824(-63)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 3: remaining: query hashes=401284(-7039) matches=36816(-8)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 4: remaining: query hashes=394680(-6604) matches=36810(-6)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 5: remaining: query hashes=388354(-6326) matches=34802(-2008)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 6: remaining: query hashes=382932(-5422) matches=34725(-77)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 7: remaining: query hashes=377745(-5187) matches=33709(-1016)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 8: remaining: query hashes=372587(-5158) matches=32155(-1554)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 9: remaining: query hashes=367525(-5062) matches=31901(-254)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 10: remaining: query hashes=362476(-5049) matches=31897(-4)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 11: remaining: query hashes=357529(-4947) matches=30934(-963)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 12: remaining: query hashes=352786(-4743) matches=30916(-18)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 13: remaining: query hashes=348157(-4629) matches=30914(-2)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 14: remaining: query hashes=343628(-4529) matches=30879(-35)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 15: remaining: query hashes=339368(-4260) matches=30862(-17)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 16: remaining: query hashes=335201(-4167) matches=30860(-2)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 17: remaining: query hashes=331269(-3932) matches=30802(-58)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 18: remaining: query hashes=327415(-3854) matches=30770(-32)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 19: remaining: query hashes=323638(-3777) matches=29995(-775)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 20: remaining: query hashes=319982(-3656) matches=29978(-17)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 21: remaining: query hashes=316735(-3247) matches=29977(-1)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 22: remaining: query hashes=313533(-3202) matches=29939(-38)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 23: remaining: query hashes=310570(-2963) matches=29919(-20)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 24: remaining: query hashes=307695(-2875) matches=29910(-9)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 25: remaining: query hashes=304833(-2862) matches=29787(-123)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 26: remaining: query hashes=301985(-2848) matches=29740(-47)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 27: remaining: query hashes=299206(-2779) matches=29717(-23)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 28: remaining: query hashes=296479(-2727) matches=29651(-66)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 29: remaining: query hashes=293778(-2701) matches=29305(-346)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 30: remaining: query hashes=291090(-2688) matches=26974(-2331)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 31: remaining: query hashes=288411(-2679) matches=26969(-5)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 32: remaining: query hashes=285739(-2672) matches=26965(-4)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 33: remaining: query hashes=283100(-2639) matches=26890(-75)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 34: remaining: query hashes=280499(-2601) matches=26881(-9)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 35: remaining: query hashes=277983(-2516) matches=26879(-2)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 36: remaining: query hashes=275520(-2463) matches=26724(-155)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 37: remaining: query hashes=273273(-2247) matches=26717(-7)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 38: remaining: query hashes=271064(-2209) matches=26681(-36)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 39: remaining: query hashes=268899(-2165) matches=26674(-7)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 40: remaining: query hashes=266742(-2157) matches=26671(-3)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 41: remaining: query hashes=264600(-2142) matches=26591(-80)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 42: remaining: query hashes=262461(-2139) matches=26586(-5)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 43: remaining: query hashes=260330(-2131) matches=26557(-29)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 44: remaining: query hashes=258221(-2109) matches=26455(-102)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 45: remaining: query hashes=256191(-2030) matches=26450(-5)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 46: remaining: query hashes=254194(-1997) matches=26448(-2)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 47: remaining: query hashes=252214(-1980) matches=26447(-1)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 48: remaining: query hashes=250242(-1972) matches=26440(-7)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 49: remaining: query hashes=248290(-1952) matches=26405(-35)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 50: remaining: query hashes=246439(-1851) matches=26401(-4)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 51: remaining: query hashes=244600(-1839) matches=26397(-4)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 52: remaining: query hashes=242763(-1837) matches=26394(-3)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 53: remaining: query hashes=240988(-1775) matches=26393(-1)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 54: remaining: query hashes=239247(-1741) matches=26391(-2)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 55: remaining: query hashes=237568(-1679) matches=26387(-4)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 56: remaining: query hashes=235896(-1672) matches=26384(-3)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 57: remaining: query hashes=234265(-1631) matches=26380(-4)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 58: remaining: query hashes=232696(-1569) matches=26379(-1)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 59: remaining: query hashes=231133(-1563) matches=26373(-6)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 60: remaining: query hashes=229620(-1513) matches=26352(-21)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 61: remaining: query hashes=228143(-1477) matches=26346(-6)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 62: remaining: query hashes=226859(-1284) matches=26344(-2)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 63: remaining: query hashes=225727(-1132) matches=26343(-1)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 64: remaining: query hashes=224993(-734) matches=26321(-22)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 65: remaining: query hashes=224479(-514) matches=26265(-56)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 66: remaining: query hashes=224048(-431) matches=26264(-1)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 67: remaining: query hashes=223629(-419) matches=26262(-2)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 68: remaining: query hashes=223261(-368) matches=26253(-9)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 69: remaining: query hashes=223059(-202) matches=26234(-19)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 70: remaining: query hashes=222868(-191) matches=26223(-11)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 71: remaining: query hashes=222681(-187) matches=26219(-4)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 72: remaining: query hashes=222524(-157) matches=26217(-2)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 73: remaining: query hashes=222384(-140) matches=26212(-5)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 74: remaining: query hashes=222268(-116) matches=836(-25376)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 75: remaining: query hashes=222160(-108) matches=763(-73)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 76: remaining: query hashes=222075(-85) matches=508(-255)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 77: remaining: query hashes=221993(-82) matches=89(-419)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 78: remaining: query hashes=221915(-78) matches=80(-9)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 79: remaining: query hashes=221837(-78) matches=20(-60)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 80: remaining: query hashes=221776(-61) matches=8(-12)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 81: remaining: query hashes=221716(-60) matches=5(-3)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 82: remaining: query hashes=221659(-57) matches=3(-2)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 83: remaining: query hashes=221608(-51) matches=1(-2)
+outputs.paper/trim/SRR606249.trim.fq.gz iter 84: remaining: query hashes=221557(-51) matches=0(-1)
+[K...fastgather is done! gather results in 'SRR606249.x.gtdb-rs214.fastgather.zip.csv'
+	Command being timed: "sourmash scripts fastgather SRR606249.trim.k31.sig.zip gtdb-rs214-k31.zip -o SRR606249.x.gtdb-rs214.fastgather.zip.csv"
+	User time (seconds): 4679.83
+	System time (seconds): 63.96
+	Percent of CPU this job got: 1712%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 4:37.02
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 14115060
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 97308
+	Minor (reclaiming a frame) page faults: 2305563
+	Voluntary context switches: 153862
+	Involuntary context switches: 282160
+	Swaps: 0
+	File system inputs: 24451040
+	File system outputs: 168
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
