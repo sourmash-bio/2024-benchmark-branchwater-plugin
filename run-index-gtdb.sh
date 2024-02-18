@@ -1,1 +1,2 @@
-/usr/bin/time -v sourmash scripts index -o gtdb-rs214-k31.rocksdb /group/ctbrowngrp/sourmash-db/gtdb-rs214/gtdb-rs214-k31.zip
+#! /bin/bash
+/usr/bin/time -v sourmash scripts index -o gtdb-rs214-k31.rocksdb /group/ctbrowngrp/sourmash-db/gtdb-rs214/gtdb-rs214-k31.zip >& run-index-gtdb.bench.txt
